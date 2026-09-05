@@ -1,0 +1,6 @@
+<Project Sdk="Microsoft.NET.Sdk">
+  <PropertyGroup>
+    <RootNamespace>Raccoon.Core</RootNamespace>
+    <AssemblyName>Raccoon.Core</AssemblyName>
+  </PropertyGroup>
+</Project>
