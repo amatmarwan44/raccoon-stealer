@@ -1,0 +1,10 @@
+<Project Sdk="Microsoft.NET.Sdk">
+  <PropertyGroup>
+    <RootNamespace>Raccoon.ChainProviders</RootNamespace>
+    <AssemblyName>Raccoon.ChainProviders</AssemblyName>
+    <Description>JSON-RPC chain clients, transport layer, resilience policies.</Description>
+  </PropertyGroup>
+  <ItemGroup>
+    <ProjectReference Include="..\Engine\Engine.csproj" />
+  </ItemGroup>
+</Project>
